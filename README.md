@@ -5,6 +5,12 @@
 </p>
 A responsive restaurant website concept for Sunshine Coast Grill, built with React and Vite. Visitors can explore the restaurant, browse a categorized menu, find location details, and use a validated contact form.
 
+
+
+https://github.com/user-attachments/assets/0a82a8bd-93c4-4776-8112-5d8e8dd87958
+
+
+
 ## Features
 
 - Home, About, Menu, Location, and Contact pages
